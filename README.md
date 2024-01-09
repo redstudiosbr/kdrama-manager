@@ -50,8 +50,6 @@ Contributions to K-Drama Manager are welcome! Here's how you can contribute:
 
 ## License
 
-This project is licensed under the MIT License.
-
 ```
 MIT License
 
