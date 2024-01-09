@@ -2,7 +2,7 @@
 
 Welcome to K-Drama Manager, an interactive visual novel game set in the world of Korean dramas. This Unity-based project allows players to step into the shoes of a former famous actor who is now managing a talent agency in Seoul, South Korea.
 
-`Please note that **K-Drama Manager** is a work in progress. Features and documentation are subject to change as development continues. We welcome feedback and contributions to help improve the game.`
+`Please note that K-Drama Manager is a work in progress.`
 
 ## Features
 
